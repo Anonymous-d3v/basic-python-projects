@@ -26,8 +26,8 @@ No additional libraries are needed.
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Anonymous-d3v/your-repo-name.git
+    cd basic-python-projects/calculator_gui
     ```
 
 2. (Optional) Create a virtual environment:
